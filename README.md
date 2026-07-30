@@ -36,13 +36,11 @@ Heart-Disease-Prediction-Using-Machine-Learning/
 6. Model Evaluation
 7. Prediction
 
-## 📈 Expected Results
-The project evaluates different machine learning models using:
-- Accuracy
-- Precision
-- Recall
-- F1-Score
-- Confusion Matrix
+## 📈 Model Results
+
+| Machine Learning Model | Accuracy |
+|---|---:|
+| Logistic Regression | 81% |
 
 ## 👩‍💻 Author
 **Maryam Mazher**
